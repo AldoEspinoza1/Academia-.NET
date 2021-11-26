@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3c59e0d-a541-4bdd-a195-481e2d7292db": {
+      "ProjectGuid": "c3c59e0d-a541-4bdd-a195-481e2d7292db",
+      "DisplayName": "DN_1.1_Jorge_DeLara_v1.1",
+      "ColorIndex": 0
+    },
+    "907bf595-f8b1-4d6f-a835-7d955f3b3ea9": {
+      "ProjectGuid": "907bf595-f8b1-4d6f-a835-7d955f3b3ea9",
+      "DisplayName": "AudioManager",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
